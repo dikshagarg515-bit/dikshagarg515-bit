@@ -17,4 +17,4 @@ Python · Pandas · NumPy · Scikit-learn · TensorFlow · Keras · HuggingFace
 | [🤖 Excuse Bot](https://github.com/dikshagarg515-bit/excuse-bot-nlp) | AI excuse generator with Hindi translation & voice output | HuggingFace, gTTS |
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/diksha-garg-889bba25b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/diksha-garg-889bba25b](https://www.linkedin.com/in/diksha-garg-889bba25b/)
