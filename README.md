@@ -1,6 +1,6 @@
 # Hi, I'm Diksha Garg 👋
 
-B.Tech CS Student (3rd Year) | ML & Data Science Enthusiast
+B.Tech CS Student (4rd Year) | ML & Data Science Enthusiast
 
 ## 🛠️ Technologies I Work With
 Python · Pandas · NumPy · Scikit-learn · TensorFlow · Keras · HuggingFace
